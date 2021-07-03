@@ -1,0 +1,7 @@
+.btnVideo{width: 50px; height: 50px; border-radius: 50%; display: inline-block; padding: 0.3rem; background-color: #f6f6f6; line-height: 35px; cursor: pointer;}
+.btnSize{width: 50px; height: 50px; cursor: pointer;}
+.btnSize h4{line-height: 50px;}
+.btnSize.active{background-color: black; color: white;}
+.colors{width: 30px; height: 30px; border-radius: 50%; display: inline-block;}
+.colors.active{border:3px solid black}
+.btnBag{bottom: 0; right: 0; }
